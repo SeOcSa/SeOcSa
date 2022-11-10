@@ -14,7 +14,7 @@
      public class HowIAm
      {
         const string User = "Sebastian Octavian Sas";
-        public string CurrentWork = ".Net core&Angular Full stack developer";
+        public string CurrentWork = ".Net core & Angular Full stack developer";
         public string CurrentCity = "Timisoara, Romania";
         
         public IList<string> GetHobbies()
